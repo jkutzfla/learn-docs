@@ -1,0 +1,3 @@
+Here is some plain text content in a file.
+
+The quick brown fox jumps over hte lazy dog.
