@@ -3,6 +3,8 @@
 ## Intro
 Write the Docs workshop
 
+[React example](src/App.tsx)
+
 _Italics_
 
 **Bold**
